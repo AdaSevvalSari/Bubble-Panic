@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #060612;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: 'Courier New', Courier, monospace;
+  overflow: hidden;
+  user-select: none;
+}
+
+#game-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+#gameCanvas {
+  display: block;
+  border: 2px solid rgba(100, 120, 255, 0.3);
+  border-radius: 6px;
+  box-shadow:
+    0 0 30px rgba(100, 120, 255, 0.15),
+    0 0 60px rgba(100, 120, 255, 0.08);
+  cursor: default;
+}
