@@ -1,10 +1,11 @@
 # HoPanic
 
-HoPanic is a 2D arcade-style HTML5 Canvas game inspired by the classic game Bubble Trouble.
 
-The player controls a character who must survive by avoiding bouncing bubbles and destroying them using a rope weapon. When hit, large bubbles split into smaller and faster versions, creating increasingly chaotic gameplay.
+HoPanic is a fast-paced 2D arcade game developed using HTML5 Canvas and Vanilla JavaScript.
 
-The game features multiple levels, particle effects, procedural audio generation, power-up mechanics, collision detection systems, screen shake effects, and animated character rendering.
+The player must survive by avoiding dangerous bouncing bubbles and destroying them using a rope weapon while progressing through increasingly difficult levels.
+
+The game includes particle systems, procedural audio generation, collision detection algorithms, animated character rendering, power-up mechanics, screen shake effects, and a finite-state game architecture.
 
 Developed as a Computer Graphics course project.
 
