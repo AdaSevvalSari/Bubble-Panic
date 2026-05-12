@@ -1,7 +1,7 @@
-# HoPanic
+# Bubble Panic
 
 
-HoPanic is a fast-paced 2D arcade game developed using HTML5 Canvas and Vanilla JavaScript.
+Bubble Panic is a fast-paced 2D arcade game developed using HTML5 Canvas and Vanilla JavaScript.
 
 The player must survive by avoiding dangerous bouncing bubbles and destroying them using a rope weapon while progressing through increasingly difficult levels.
 
