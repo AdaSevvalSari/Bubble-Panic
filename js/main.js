@@ -754,14 +754,14 @@ function drawMenu() {
   // Title shadow
   ctx.font     = 'bold 86px Courier New';
   ctx.textAlign = 'left';
-  const hoW    = ctx.measureText('Ho').width;
+  const hoW    = ctx.measureText('Bubbel ').width;
   const panicW = ctx.measureText('Panic').width;
   const titleX = (CANVAS_W - hoW - panicW) / 2;
 
   ctx.fillStyle   = '#FF4757';
   ctx.shadowColor = '#FF4757';
   ctx.shadowBlur  = 40;
-  ctx.fillText('Ho', titleX, 230);
+  ctx.fillText('Bubbel ', titleX, 230);
 
   ctx.fillStyle   = '#ffffff';
   ctx.shadowColor = '#ffffff';
