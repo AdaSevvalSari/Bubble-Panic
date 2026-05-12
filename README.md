@@ -10,7 +10,7 @@ The game includes particle systems, procedural audio generation, collision detec
 Developed as a Computer Graphics course project.
 
 Live Demo:
-https://adasevvalsari.github.io/HoPanic/
+[https://adasevvalsari.github.io/HoPanic/](https://adasevvalsari.github.io/Bubble-Panic/)
 ---
 
 ## 🎮 Features
